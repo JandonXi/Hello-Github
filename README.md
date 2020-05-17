@@ -1,5 +1,5 @@
 # Hello-Github
-Somthing about use Github.
+Somthing about using Github.
 ***
 [Github 指南 | Github Guides](https://guides.github.com/)  
 ***
