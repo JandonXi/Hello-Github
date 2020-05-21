@@ -6,3 +6,7 @@ Somthing about using Github.
 [Markdown教程 | 菜鸟教程](https://www.runoob.com/markdown/md-tutorial.html)
 ***
 [Awesome-Github](https://github.com/AntBranch/awesome-github)
+***
+[GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)
+***
+[HelloGitHub](https://github.com/521xueweihan/HelloGitHub)
